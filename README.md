@@ -13,7 +13,7 @@ PyTorch ConvNeXt model, with AI-powered explanations via Google Gemini.
 
 1. Clone the repo (Git LFS will download the model file automatically):
 ```bash
-   git clone https://github.com/Kushvanth274/RTRP.git
+   git clone https://github.com/allurimeghana06/dermabot.git
    cd dermabot
 ```
 
